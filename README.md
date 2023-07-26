@@ -22,9 +22,3 @@ The utility function set includes input validation functions for strings (below 
 
 ## Gameplay instructions
 Right now, this game allows two users to play the classic game of Battleship, with a 10x10 board, and five named ships of set lengths. On a player's turn, they are presented with a public version of their board and a private version of their opponent's board, to choose which square they will aim for.
-
-## Future Work
-Future work may include:
-* Build out a set of rules for an auto-player to base intelligent gameplay on
-* Make board a dynamic 2D array, allow for customizable board sizes/sets of ships
-* Add sentinel character to end the game early (right now, it will loop until someone wins)
